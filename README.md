@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero de software especializado en el **JavaScript/TypeScript** con experiencia en arquitecturas cloud sobre **Azure**. Me apasiona construir APIs sólidas, sistemas de integración y soluciones que resuelvan problemas reales.
+Ingeniero de software especializado en **JavaScript/TypeScript** con experiencia en arquitecturas cloud sobre **Azure**. Me apasiona construir APIs sólidas, sistemas de integración y soluciones que resuelvan problemas reales.
 
 - 🏢 Trabajando en **@InteligoGroup**
 - ⚡ Especializado en **Node**, **Azure**
